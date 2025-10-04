@@ -94,7 +94,7 @@ const santosh = {
 
 ## 💼 Featured Projects
 
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=santoshDEV04&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1)](https://santoshdash.vercel.app/)
+[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=santoshDEV04&repo=my-portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1)](https://santoshdash.vercel.app/)
 
 ---
 
