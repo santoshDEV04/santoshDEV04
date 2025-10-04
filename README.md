@@ -1,77 +1,132 @@
 <div align="center">
 
-# 👋 Hi, I'm Santosh Kumar Dash
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hi, I'm Santosh Kumar Dash
 
-### 🚀 Full-Stack Developer | Lifelong Learner 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+Modern+Web+Apps+%E2%9C%A8;AI+%2B+Web+Integration+%F0%9F%A4%96;Creating+Beautiful+UX+%F0%9F%8E%A8;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Building+Modern+Web+Apps;Exploring+AI+%2B+Web+Integration;Creating+Beautiful+User+Experiences" alt="Typing SVG" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://santoshdash.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santosh-kumar-dash-417a30274/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dashsantosh1333@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santoshDEV04)
+<p align="center">
+  <a href="https://santoshdash.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=6366F1" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/santosh-kumar-dash-417a30274/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:dashsantosh1333@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/santoshDEV04" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
 
----
-
-## 💫 About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
 
 ```javascript
 const santosh = {
-    location: "Bhubaneswar, Odisha, India 🇮🇳",
-    currentFocus: ["React.js", "Next.js", "Node.js", "AI Integration"],
-    passion: "Building modern, animated, and responsive web applications",
-    goal: "Become a Full-Stack Developer and explore AI × Web",
-    mindset: "Always curious about new frameworks & technologies",
-    funFact: "A great UI makes code feel alive ✨"
+    location: "📍 Bhubaneswar, Odisha, India 🇮🇳",
+    role: "💻 Full-Stack Developer",
+    currentFocus: ["⚛️ React.js", "▲ Next.js", "🟢 Node.js", "🤖 AI Integration"],
+    passion: "🎨 Building modern, animated & responsive web applications",
+    mission: "🚀 Become a Full-Stack Developer and explore AI × Web",
+    mindset: "🧠 Always curious about new frameworks & technologies",
+    superpower: "✨ Turning coffee into code",
+    quote: "Great UI makes code feel alive 💫"
 };
 ```
 
-- 🌱 Currently mastering **React.js, Next.js, Node.js & AI integration**
-- 💻 Passionate about creating **pixel-perfect, interactive web experiences**
-- 🎯 On a mission to become a **Full-Stack Developer** and bridge **AI with Web**
-- 🧠 Constantly exploring cutting-edge technologies and best practices
-- ⚡ Belief: *Great design + Clean code = Magic*
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Currently mastering:** React.js, Next.js, Node.js & AI integration  
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Building:** Pixel-perfect, interactive web experiences  
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Mission:** Bridge AI with Web Development  
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Philosophy:** *Great design + Clean code = Magic*
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## 🛠️ Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
 
 <div align="center">
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="25"> Frontend Development
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+</p>
 
-### Animation & Design
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="25"> Backend & Database
 
-### Tools & Technologies
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
 
-### Currently Learning
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+### <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="25"> Animation & Design
+
+<p>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD"/>
+</p>
+
+### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="25"> Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+</p>
+
+### <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="25"> Currently Learning
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## 🎯 2025 Goals
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> 2025 Goals
+
+<table align="center">
+<tr>
+<td width="50%">
+
+```javascript
+const goals2025 = {
+  portfolio: "✅ Live & Stunning",
+  project: "💡 Full-Stack Blog App",
+  learning: "🧠 AI/ML Integration",
+  mastery: "🎨 Animation Expert",
+  contribution: "🚀 Open Source",
+  development: "📱 Mobile-First Pro"
+};
+```
+
+</td>
+<td width="50%">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+
+</td>
+</tr>
+</table>
 
 - ✅ **Portfolio Launch** → Live at [santoshdash.vercel.app](https://santoshdash.vercel.app/)
 - 💡 **Full-Stack Blog App** → Building with Next.js + MongoDB
@@ -80,63 +135,120 @@ const santosh = {
 - 🚀 **Open Source Contributions** → Contributing to impactful projects
 - 📱 **Mobile-First Development** → Mastering responsive design patterns
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## 📊 GitHub Statistics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Statistics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santoshDEV04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santoshDEV04&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=santoshDEV04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&ring_color=6366F1" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santoshDEV04&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" width="49%" />
 </div>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshDEV04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshDEV04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Top Languages" width="49%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=santoshDEV04&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="Contribution Graph" width="49%" />
 </div>
 
-## 💼 Featured Projects
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=santoshDEV04&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Wakatime Stats" width="49%"/>
 
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=santoshDEV04&repo=my-portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1)](https://santoshdash.vercel.app/)
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
----
-
-## 🌟 What I'm Working On
-
-```javascript
-const currentProjects = [
-    "🎨 Personal Portfolio with stunning animations",
-    "📝 Video Call and Chatting Application",
-    "🤖 AI-powered web tools",
-    "📱 Responsive component library"
-];
-```
-
----
-
-## 📫 Let's Connect!
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> Featured Projects
 
 <div align="center">
 
-**Open to collaborations, freelance opportunities, and interesting projects!**
+<a href="https://santoshdash.vercel.app/" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=santoshDEV04&repo=my-portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="Portfolio" />
+</a>
 
-[![Email](https://img.shields.io/badge/Email_Me-dashsantosh1333@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dashsantosh1333@gmail.com)
-
-**"Code is like humor. When you have to explain it, it's bad." – Cory House**
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Current Focus
 
 <div align="center">
 
-### 👀 Profile Views
+<table>
+<tr>
+<td width="50%">
 
-![Profile Views](https://komarev.com/ghpvc/?username=santoshDEV04&color=6366F1&style=for-the-badge)
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
+
+</td>
+<td width="50%">
+
+```javascript
+const currentProjects = [
+  {
+    name: "Portfolio",
+    tech: "Next.js + Framer Motion",
+    status: "🎨 Polishing animations"
+  },
+  {
+    name: "Video Call App",
+    tech: "WebRTC + Socket.io",
+    status: "💬 Building chat features"
+  },
+  {
+    name: "AI Tools",
+    tech: "OpenAI + React",
+    status: "🤖 Integration phase"
+  },
+  {
+    name: "Component Library",
+    tech: "React + Tailwind",
+    status: "📱 Responsive design"
+  }
+];
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30"> Let's Connect!
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="500">
+
+### **Open to collaborations, freelance opportunities, and interesting projects!**
+
+<a href="mailto:dashsantosh1333@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-dashsantosh1333@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br><br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it's%20bad.&author=Cory%20House" alt="Quote"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+<div align="center">
+
+### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25"> Profile Views & Stars
+
+![Profile Views](https://komarev.com/ghpvc/?username=santoshDEV04&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
 
 ### ⭐ Show Some Love
 
-If you find my work interesting, feel free to ⭐ star my repositories!
+**If you find my work interesting, feel free to ⭐ star my repositories!**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 ---
 
-**💻 Made with 💙 by Santosh Kumar Dash**
+### **💻 Made with 💙 by Santosh Kumar Dash**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
 
 </div>
