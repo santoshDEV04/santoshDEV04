@@ -149,7 +149,7 @@ const goals2025 = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=santoshDEV04&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="Contribution Graph" width="49%" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=santoshDEV04&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Wakatime Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@santoshDEV04&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Wakatime Stats" width="49%"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
