@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Santosh Kumar Dash
 
-### 🚀 Full-Stack Developer | Lifelong Learner | AI Enthusiast
+### 🚀 Full-Stack Developer | Lifelong Learner 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Building+Modern+Web+Apps;Exploring+AI+%2B+Web+Integration;Creating+Beautiful+User+Experiences" alt="Typing SVG" />
 
@@ -65,7 +65,6 @@ const santosh = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Currently Learning
-![AI & ML](https://img.shields.io/badge/AI_&_ML-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 </div>
@@ -84,32 +83,20 @@ const santosh = {
 ---
 
 ## 📊 GitHub Statistics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santoshkumardash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santoshkumardash&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=santoshDEV04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santoshDEV04&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" width="49%" />
 </div>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshkumardash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" alt="Top Languages" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santoshkumardash&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="Contribution Graph" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshDEV04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santoshDEV04&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="Contribution Graph" width="49%" />
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=santoshkumardash&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
-
----
 
 ## 💼 Featured Projects
 
 <div align="center">
 
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=santoshkumardash&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1)](https://santoshdash.vercel.app/)
+[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=santoshDEV04&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1)](https://santoshdash.vercel.app/)
 
 </div>
 
@@ -120,7 +107,7 @@ const santosh = {
 ```javascript
 const currentProjects = [
     "🎨 Personal Portfolio with stunning animations",
-    "📝 Full-stack blog application",
+    "📝 Video Call and Chatting Application",
     "🤖 AI-powered web tools",
     "📱 Responsive component library"
 ];
@@ -134,7 +121,7 @@ const currentProjects = [
 
 **Open to collaborations, freelance opportunities, and interesting projects!**
 
-[![Email](https://img.shields.io/badge/Email_Me-santoshkumardash@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santoshkumardash@example.com)
+[![Email](https://img.shields.io/badge/Email_Me-dashsantosh1333@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dashsantosh1333@gmail.com)
 
 **"Code is like humor. When you have to explain it, it's bad." – Cory House**
 
@@ -146,7 +133,7 @@ const currentProjects = [
 
 ### 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=santoshkumardash&color=6366F1&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=santoshDEV04&color=6366F1&style=for-the-badge)
 
 ### ⭐ Show Some Love
 
